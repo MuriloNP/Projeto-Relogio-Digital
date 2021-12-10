@@ -8,4 +8,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ##
 
-- [Link do projeto](https://murilonp.github.io/layout-sneacker-gallery-basic/)
+- [Link do projeto](https://murilonp.github.io/relogio-digital/)
