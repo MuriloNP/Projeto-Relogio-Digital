@@ -22,9 +22,6 @@ function updateClock() {
   hElement.style.transform = `rotate(${hDeg}deg)`;
 }
 
-function fixZero(time) {
-  return time < 10 ? `0${time}` : time;
-}
-
+const fixZero = time => (time < 10 ? `0${time}` : time);
 setInterval(updateClock, 1000);
 updateClock();
